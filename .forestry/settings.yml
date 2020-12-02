@@ -8,10 +8,6 @@ sections:
   label: Content
 - type: document
   path: content/about/info.md
-  label: tests
-  match: "**/*"
-- type: document
-  path: content/about/info.md
   label: Info Page
 - type: directory
   path: content/blog-posts
